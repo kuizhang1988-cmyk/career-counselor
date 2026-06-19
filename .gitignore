@@ -1,0 +1,16 @@
+# Build artifacts
+*.skill
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Temp
+tmp/
+temp/
+*.tmp
